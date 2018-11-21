@@ -1,0 +1,10 @@
+---
+title: "lab_8_ng"
+author: "Nelson Gould"
+date: "11/21/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
